@@ -1,2 +1,2 @@
 # Competitive_Coding_Questions
-All Competitive Coding done in UG and PG
+All Competitive Coding done on HackerRank, CodeChef, GeeksforGeeks, LeetCode
