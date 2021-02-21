@@ -1,2 +1,2 @@
 # Competitive_Coding_Questions
-All Competitive Coding done on HackerRank, CodeChef
+All Coding done on HackerRank, CodeChef
