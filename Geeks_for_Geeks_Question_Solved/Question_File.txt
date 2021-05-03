@@ -2,6 +2,8 @@ Easy
 1-1. Learn to Comment (https://practice.geeksforgeeks.org/problems/learn-to-comment/1)
 1-2. Stack Operations (https://practice.geeksforgeeks.org/problems/stacks-operations/1)
 1-3. Sum of two numbers without using arithmatic operators (https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1)
+1-4. Number of 1 Bits (https://practice.geeksforgeeks.org/problems/set-bits0143/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1#)
+1-5.
 Medium
 2-1.
 Hard
