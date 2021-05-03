@@ -1,1 +1,8 @@
-
+Easy
+1-1. Learn to Comment (https://practice.geeksforgeeks.org/problems/learn-to-comment/1)
+1-2. Stack Operations (https://practice.geeksforgeeks.org/problems/stacks-operations/1)
+1-3. Sum of two numbers without using arithmatic operators (https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1)
+Medium
+2-1.
+Hard
+3-1.
