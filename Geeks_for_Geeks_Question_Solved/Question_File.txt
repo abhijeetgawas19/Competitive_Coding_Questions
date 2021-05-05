@@ -6,6 +6,7 @@ Easy
 1-4. Number of 1 Bits (https://practice.geeksforgeeks.org/problems/set-bits0143/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1#)
 1-5. Longest Consecutive 1's (https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1)
 1-6. Check if the number is balanced (https://practice.geeksforgeeks.org/problems/check-if-the-number-is-balanced3014/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=difficulty[]0difficulty[]1difficulty[]2page2)
+1-7. Tom and Jerry (https://practice.geeksforgeeks.org/problems/tom-and-jerry1325/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=difficulty[]0difficulty[]1difficulty[]2page2)
 
 Medium
 
