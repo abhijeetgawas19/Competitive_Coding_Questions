@@ -10,7 +10,7 @@ Easy
 1.8 Two Dimensional World (https://practice.geeksforgeeks.org/problems/two-dimensional-world/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1)
 1.9 Remove Duplicates (https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=difficulty[]0difficulty[]1difficulty[]2page2#)
 1.10 Sum of Big Integers (https://practice.geeksforgeeks.org/problems/sum-of-big-integers/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1)
-
+1.11 Change Bits (https://practice.geeksforgeeks.org/problems/change-bits1538/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=difficulty[]0difficulty[]1difficulty[]2page2#)
 Medium
 
 2-1.
