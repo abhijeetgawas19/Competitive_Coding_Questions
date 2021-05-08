@@ -12,6 +12,7 @@ Easy
 1.10 Sum of Big Integers (https://practice.geeksforgeeks.org/problems/sum-of-big-integers/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1)
 1.11 Change Bits (https://practice.geeksforgeeks.org/problems/change-bits1538/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=difficulty[]0difficulty[]1difficulty[]2page2#)
 1.12 Delete Array (https://practice.geeksforgeeks.org/problems/delete-array/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1)
+1.13 Closing Bracket Index (https://practice.geeksforgeeks.org/problems/closing-bracket-index5900/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=difficulty[]0difficulty[]1difficulty[]2page3#)
 Medium
 
 2-1.
