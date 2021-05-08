@@ -14,6 +14,7 @@ Easy
 1.12 Delete Array (https://practice.geeksforgeeks.org/problems/delete-array/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]0difficulty[]1difficulty[]2page1)
 1.13 Closing Bracket Index (https://practice.geeksforgeeks.org/problems/closing-bracket-index5900/1/?difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=difficulty[]0difficulty[]1difficulty[]2page3#)
 1.14 Factorial of Number (https://practice.geeksforgeeks.org/problems/factorial-of-number/1)
+1.15 Wave Array (https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
 Medium
 
 2-1.
