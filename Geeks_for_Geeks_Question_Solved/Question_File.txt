@@ -16,6 +16,7 @@ Easy
 1.14 Factorial of Number (https://practice.geeksforgeeks.org/problems/factorial-of-number/1)
 1.15 Wave Array (https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
 1.16 Xoring and Clearing (https://practice.geeksforgeeks.org/problems/xoring-and-clearing-java/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1)
+1.17 Maximum Area Rectangle (https://practice.geeksforgeeks.org/problems/maximum-area-rectangle/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1#)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
