@@ -21,6 +21,7 @@ Easy
 1.19 Geek and his Marks (https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1)
 1.20 Reverse Coding (https://practice.geeksforgeeks.org/problems/reverse-coding2452/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
 1.21 Sum of Array Elements (https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
+1.22 Reverse Bits (https://practice.geeksforgeeks.org/problems/reverse-bits-1611130171/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
