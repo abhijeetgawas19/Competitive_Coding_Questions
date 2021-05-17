@@ -26,6 +26,7 @@ Easy
 1.24 Find first set bit (https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=4&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page4)
 1.25 Learning Structs (https://practice.geeksforgeeks.org/problems/learning-structs/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1)
 1.26 Find the Highest number (https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
+1.27 C++ Multi-Level Inheritance (https://practice.geeksforgeeks.org/problems/c-multi-level-inheritance/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2#)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
