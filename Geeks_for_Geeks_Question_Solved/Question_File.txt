@@ -34,7 +34,7 @@ Easy
 1.26 Find the Highest number (https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
 1.27 C++ Multi-Level Inheritance (https://practice.geeksforgeeks.org/problems/c-multi-level-inheritance/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2#)
 1.28 Learning Macros (https://practice.geeksforgeeks.org/problems/learning-macros/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1#)
-1.29 
+1.29 While loop-printTable (https://practice.geeksforgeeks.org/problems/while-loop-printtable/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
