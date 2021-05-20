@@ -36,6 +36,7 @@ Easy
 1.28 Learning Macros (https://practice.geeksforgeeks.org/problems/learning-macros/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1#)
 1.29 While loop-printTable (https://practice.geeksforgeeks.org/problems/while-loop-printtable/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1)
 1.30 Form a number divisble by 3 using array digits (https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
+1.31 XOR of a given range (https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
