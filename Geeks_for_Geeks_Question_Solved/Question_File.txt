@@ -41,6 +41,7 @@ Easy
 1.33. Count the Zeros (https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1page3)
 1.34. Learning to be precise (https://practice.geeksforgeeks.org/problems/learning-to-be-precise/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
 1.35. Squares in N*N Chessboard (https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
+1.36. Amicable Pair (https://practice.geeksforgeeks.org/problems/amicable-pair0804/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
