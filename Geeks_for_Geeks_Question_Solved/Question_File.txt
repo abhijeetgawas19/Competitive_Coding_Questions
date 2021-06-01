@@ -51,6 +51,7 @@ Easy
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
 2-2. Height of Binary Tree (https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=1&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page1)
+2-3. Search in a row-column sorted Matrix (https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
 
 Hard
 3-1.
