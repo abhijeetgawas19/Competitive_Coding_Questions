@@ -48,6 +48,7 @@ Easy
 1.40. Occurence of integer in Linked List (https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=2&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page2)
 1.41. Bitonic Point (https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=3&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page3)
 1.42. Check whether K-th bit is set or not (https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=4&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page4#)
+1.43. Palindrome String (https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?problemStatus=unsolved&difficulty[]=0&difficulty[]=1&difficulty[]=2&page=4&query=problemStatusunsolveddifficulty[]0difficulty[]1difficulty[]2page4)
 
 Medium
 2-1. Occurences of 2 as digit (https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1/?difficulty[]=1&difficulty[]=2&page=1&query=difficulty[]1difficulty[]2page1#)
